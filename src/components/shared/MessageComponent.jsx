@@ -22,7 +22,7 @@ const MessageComponent = ({ message, user }) => {
                 backgroundColor: sameSender ? "#dcf8c6" : "#fff",
                 color: sameSender ? "black" : "#333333",
                 // backgroundColor: "white",
-                color: "black",
+                // color: "black",
                 borderRadius: "5px",
                 padding: "0.5rem",
                 width: "fit-content",
